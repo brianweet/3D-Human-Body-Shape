@@ -14,6 +14,12 @@ please contact me for the free full-text paper by email.
 ```
 pip install -r requirements.txt
 ```
+or by using conda
+```
+conda env create -f environment.yml
+conda activate 3D-Human-Body-Shape
+```
+
 
 ### Preparation
 1. download training data from [SPRING](https://graphics.soe.ucsc.edu/data/BodyModels/index.html)

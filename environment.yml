@@ -1,0 +1,12 @@
+name: 3D-Human-Body-Shape
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.7
+  - numpy==1.16.1
+  - mayavi=4.7.1
+  - pip
+  - pip:
+    - fancyimpute==0.3.2
+
